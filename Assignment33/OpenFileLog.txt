@@ -1,0 +1,872 @@
+Open File Monitoring Log
+Timestamp : 2026-02-15 22:17:30.119135
+------------------------------------------------------------
+
+Process Name : System Idle Process
+PID          : 0
+Open Files   : 0
+------------------------------------------------------------
+Process Name : System
+PID          : 4
+Open Files   : 0
+------------------------------------------------------------
+Process Name : 
+PID          : 92
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : Registry
+PID          : 136
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 512
+Open Files   : 19
+------------------------------------------------------------
+Process Name : smss.exe
+PID          : 628
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 732
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 776
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 928
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : wininit.exe
+PID          : 1012
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : services.exe
+PID          : 1040
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : LsaIso.exe
+PID          : 1060
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : lsass.exe
+PID          : 1068
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1208
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1240
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 1256
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1364
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1428
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1548
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1580
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1588
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 1596
+Open Files   : 22
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1696
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 1720
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1736
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1744
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1832
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1852
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID          : 1904
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1916
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1940
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1996
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2004
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 2060
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2092
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2136
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2192
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : AppHelperCap.exe
+PID          : 2264
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2272
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : ctfmon.exe
+PID          : 2304
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2360
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2384
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2452
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2600
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : dwm.exe
+PID          : 2648
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : hpqwmiex.exe
+PID          : 2652
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2676
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2696
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : TouchpointAnalyticsClientService.exe
+PID          : 2748
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : MemCompression
+PID          : 2824
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2876
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2908
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 2944
+Open Files   : 19
+------------------------------------------------------------
+Process Name : igfxCUIServiceN.exe
+PID          : 2948
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2956
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3028
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3040
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : hp-one-agent-service.exe
+PID          : 3176
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3192
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 3312
+Open Files   : 18
+------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 3340
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3400
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : HPSystemEventUtilityHost.exe
+PID          : 3528
+Open Files   : 3
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3532
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3540
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 3620
+Open Files   : 19
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3628
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3684
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3732
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3788
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : spoolsv.exe
+PID          : 3836
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : DiagsCap.exe
+PID          : 3896
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 3900
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3904
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3956
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 4080
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : NetworkCap.exe
+PID          : 4128
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : SysInfoCap.exe
+PID          : 4192
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4292
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4300
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : ETDService.exe
+PID          : 4396
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : nssm.exe
+PID          : 4436
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : HPCommRecovery.exe
+PID          : 4520
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : HPPrintScanDoctorService.exe
+PID          : 4532
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : OneApp.IGCC.WinService.exe
+PID          : 4552
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : esif_uf.exe
+PID          : 4564
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 4600
+Open Files   : 23
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 4628
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 4656
+Open Files   : 7
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 4684
+Open Files   : 6
+------------------------------------------------------------
+Process Name : IntelAudioService.exe
+PID          : 4692
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4716
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4764
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : jhi_service.exe
+PID          : 4808
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 4964
+Open Files   : 1
+------------------------------------------------------------
+Process Name : cmd.exe
+PID          : 5012
+Open Files   : 1
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5016
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : RstMwService.exe
+PID          : 5020
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 5036
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5060
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : RtkBtManServ.exe
+PID          : 5072
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : SECOMN64.exe
+PID          : 5124
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : vivoesServiceWin7.exe
+PID          : 5148
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 5156
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID          : 5240
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5360
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : NisSrv.exe
+PID          : 5456
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : expressvpnd.exe
+PID          : 5508
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : SecurityHealthSystray.exe
+PID          : 5700
+Open Files   : 1
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 5704
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : gamingservicesnet.exe
+PID          : 5764
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 5972
+Open Files   : 10
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 6092
+Open Files   : 1
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6100
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6208
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6212
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6324
+Open Files   : 6
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6856
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : gamingservices.exe
+PID          : 6928
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 6948
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7008
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : sihost.exe
+PID          : 7164
+Open Files   : 2
+------------------------------------------------------------
+Process Name : WindowsTerminal.exe
+PID          : 7188
+Open Files   : 11
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 7200
+Open Files   : 1
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7204
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7268
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7292
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 7472
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7592
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : NgcIso.exe
+PID          : 7632
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7752
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8204
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8360
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8372
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8536
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : WhatsApp.Root.exe
+PID          : 8640
+Open Files   : 126
+------------------------------------------------------------
+Process Name : CastSrv.exe
+PID          : 8736
+Open Files   : 0
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8840
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : explorer.exe
+PID          : 9308
+Open Files   : 83
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 9440
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 9520
+Open Files   : 2
+------------------------------------------------------------
+Process Name : igfxEMN.exe
+PID          : 9676
+Open Files   : 2
+------------------------------------------------------------
+Process Name : FileCoAuth.exe
+PID          : 9688
+Open Files   : 8
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 9884
+Open Files   : 1
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 10384
+Open Files   : 16
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10572
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10772
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11160
+Open Files   : 0
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11412
+Open Files   : 2
+------------------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 11468
+Open Files   : 0
+------------------------------------------------------------
+Process Name : AdobeCollabSync.exe
+PID          : 11472
+Open Files   : 1
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11532
+Open Files   : 6
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11592
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11820
+Open Files   : 2
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11868
+Open Files   : 0
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 12268
+Open Files   : 1
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 12404
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : SearchHost.exe
+PID          : 12740
+Open Files   : 25
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 12768
+Open Files   : 2
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 13060
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : MicrosoftStartFeedProvider.exe
+PID          : 13108
+Open Files   : 10
+------------------------------------------------------------
+Process Name : ETDCtrl.exe
+PID          : 13284
+Open Files   : 1
+------------------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 13452
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 13680
+Open Files   : 7
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 13720
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13888
+Open Files   : 35
+------------------------------------------------------------
+Process Name : winlogon.exe
+PID          : 13912
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13940
+Open Files   : 1
+------------------------------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID          : 14052
+Open Files   : 175
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 14196
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 14208
+Open Files   : 38
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 14968
+Open Files   : 8
+------------------------------------------------------------
+Process Name : ShellHost.exe
+PID          : 15060
+Open Files   : 5
+------------------------------------------------------------
+Process Name : HPMediaNetwork.exe
+PID          : 15064
+Open Files   : 15
+------------------------------------------------------------
+Process Name : MpDefenderCoreService.exe
+PID          : 15204
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 15340
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 15768
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : TextInputHost.exe
+PID          : 16224
+Open Files   : 32
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 16464
+Open Files   : 8
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 16840
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : HPSystemEventUtilityBackground.exe
+PID          : 17024
+Open Files   : 20
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 17256
+Open Files   : 19
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 17612
+Open Files   : 0
+------------------------------------------------------------
+Process Name : MsMpEng.exe
+PID          : 17832
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 17872
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : python.exe
+PID          : 18028
+Open Files   : 2
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 18156
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : AppActions.exe
+PID          : 18240
+Open Files   : 0
+------------------------------------------------------------
+Process Name : CrossDeviceResume.exe
+PID          : 18276
+Open Files   : 6
+------------------------------------------------------------
+Process Name : HPAudioSwitch.exe
+PID          : 18428
+Open Files   : 16
+------------------------------------------------------------
+Process Name : FileSyncHelper.exe
+PID          : 18500
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 18504
+Open Files   : 3
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 18544
+Open Files   : 4
+------------------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 18940
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 18992
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 19096
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : armsvc.exe
+PID          : 19356
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 19476
+Open Files   : 152
+------------------------------------------------------------
+Process Name : DbxSvc.exe
+PID          : 19496
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : HPQuickDrop.exe
+PID          : 19652
+Open Files   : 8
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 19724
+Open Files   : Access Denied
+------------------------------------------------------------
+Process Name : SystemSettings.exe
+PID          : 19736
+Open Files   : 21
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 19836
+Open Files   : 153
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 20016
+Open Files   : 1
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 20336
+Open Files   : 8
+------------------------------------------------------------
+Process Name : OneDrive.exe
+PID          : 20412
+Open Files   : 52
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 20476
+Open Files   : 104
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 20560
+Open Files   : 34
+------------------------------------------------------------
+Process Name : AdobeCollabSync.exe
+PID          : 20832
+Open Files   : 12
+------------------------------------------------------------
+Process Name : WidgetBoard.exe
+PID          : 20940
+Open Files   : 7
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 21188
+Open Files   : 0
+------------------------------------------------------------
+Process Name : SECOCL64.exe
+PID          : 21740
+Open Files   : 0
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 21752
+Open Files   : 1
+------------------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 21828
+Open Files   : 8
+------------------------------------------------------------
+Process Name : WidgetService.exe
+PID          : 21912
+Open Files   : 10
+------------------------------------------------------------
+Process Name : smartscreen.exe
+PID          : 22160
+Open Files   : 1
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 22272
+Open Files   : 1
+------------------------------------------------------------
